@@ -1,0 +1,19 @@
+#cvContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttonDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#showHideBtn{
+    position: fixed;
+    top: 50px;
+    opacity: 0.9;
+}

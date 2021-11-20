@@ -1,0 +1,29 @@
+#mainDesktopContainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+#firstPictureContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+#textContainer{
+    width: 40%;
+}
+
+.pictureContainer{
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 150px;
+}
+
+.desktopImages{
+    height: auto;
+    width: 40%;
+}
